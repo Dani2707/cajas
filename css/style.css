@@ -1,0 +1,17 @@
+*{
+    box-sizing: border-box;
+ }
+ body{
+     margin: 0;
+     padding: 0;
+ }
+ .caja1{
+     height: 500px;
+     border: 2px;color: black;
+     background-color: aqua;
+ }
+ .caja2{
+     height: 500px;
+     border: black;
+     background-color: yellow;
+ }
